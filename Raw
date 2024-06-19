@@ -1,0 +1,57 @@
+{
+    "clientTcpRtt": 1,
+    "longitude": "103.80140",
+    "latitude": "1.36730",
+    "tlsCipher": "AEAD-AES128-GCM-SHA256",
+    "continent": "AS",
+    "asn": 45102,
+    "clientAcceptEncoding": "gzip, deflate, br, zstd",
+    "country": "SG",
+    "tlsClientAuth": {
+        "certIssuerDNLegacy": "",
+        "certIssuerSKI": "",
+        "certSubjectDNRFC2253": "",
+        "certSubjectDNLegacy": "",
+        "certFingerprintSHA256": "",
+        "certNotBefore": "",
+        "certSKI": "",
+        "certSerial": "",
+        "certIssuerDN": "",
+        "certVerified": "NONE",
+        "certNotAfter": "",
+        "certSubjectDN": "",
+        "certPresented": "0",
+        "certRevoked": "0",
+        "certIssuerSerial": "",
+        "certIssuerDNRFC2253": "",
+        "certFingerprintSHA1": ""
+    },
+    "tlsExportedAuthenticator": {
+        "clientFinished": "32cbcc8dda0c6083107131cabff2fa14e3b313525583401dda344d3bd3a0d067",
+        "clientHandshake": "ebb52d55add0ab2b43590326e07966f0ab3114efbc0558e134a73ea708ea13d5",
+        "serverHandshake": "f6e956effb0c6a10299ffd9cbd08da743cdb231a548954425b65d9c60e51584e",
+        "serverFinished": "69f866ecd1ee2bf4feb30d7d069bf3d30b2905c93fa8075a32957e7d1f829c47"
+    },
+    "tlsVersion": "TLSv1.3",
+    "colo": "SIN",
+    "timezone": "Asia/Singapore",
+    "verifiedBotCategory": "",
+    "tlsClientHelloLength": "565",
+    "edgeRequestKeepAliveStatus": 1,
+    "requestPriority": "weight=256;exclusive=1",
+    "tlsClientExtensionsSha1": "EjRyYqRPWTsiCrYe8zP81wL2M2E=",
+    "httpProtocol": "HTTP/2",
+    "asOrganization": "Alibaba",
+    "tlsClientRandom": "+sGR8hOKQNd8ceawlcBYLBmgzJrllv1DyiZOiHJVLN8=",
+    "pagesHostName": "edgetunnel-esw.pages.dev",
+    "botManagement": {
+        "corporateProxy": false,
+        "verifiedBot": false,
+        "jsDetection": {
+            "passed": false
+        },
+        "staticResource": false,
+        "detectionIds": {},
+        "score": 99
+    }
+}
